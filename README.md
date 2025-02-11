@@ -1,4 +1,4 @@
-# CryptoLocker Encrypted File Format
+# CryptoLocker Encrypted File Format - Updated with Python3
 
 Each file encrypted by CryptoLocker is encrypted with a unique AES-256 
 key. The unique symmetric key is then encrypted with the public RSA-2048 
